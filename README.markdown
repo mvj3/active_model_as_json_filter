@@ -44,3 +44,7 @@ end
 ```
 
 3. 两者都在as_json最后调用，并且局部会覆盖全局。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mvj3/active_model_as_json_filter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
